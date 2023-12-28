@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">d9935ff6605fb910e43da016580c5f73</canvas>
+        <component display_value="now-heading">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-tertiary","label":"Collection Numbers","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-28 02:08:19</sys_created_on>
+        <sys_id>59935ff6f55fb910e61613bafbd39272</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Collection Tracker" source="x_1283888_collec_0">46f4077a971fb910d804b47de053afe0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Collection Tracker">46f4077a971fb910d804b47de053afe0</sys_scope>
+        <sys_update_name>par_dashboard_widget_59935ff6f55fb910e61613bafbd39272</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-28 02:10:36</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
